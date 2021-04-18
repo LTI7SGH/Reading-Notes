@@ -71,7 +71,9 @@ Two most fequently experienced types of transition:
   
   3）团队为过去的成就感到自豪。（没有标准的流程，在new leader眼里是一个缺陷，但是团队其实为他们在资源缺乏的条件下取得的成就感到自豪。所以要看到事物的两面，注意不要否定团队过去的成就，推进新计划      时，要注意沟通，认可他们的成就，比如说investment不是因为过去/现在的绩效不够好，而是为公司未来更大scale的成长预备capacity etc.）
 
-  Learn about the organization's culture and politics to socialize and customize your approach. 第一章也有提到，比如注意平常开会，是会谈论hard questions，还是只是用来确认/重复那些已经   私下里认同过的事。BFR项目时，苏兄有单独和每个stakeholder group开会，解释细节取得他们的认同，最后才和所有人和Allan一起开会，会上大家没有提出什么让我们难堪的问题，因为私下里都解决过了，所以更   加顺利。
+  Learn about the organization's culture and politics to socialize and customize your approach. 
+  
+  第一章也有提到，比如注意平常开会，是会谈论hard questions，还是只是用来确认/重复那些已经   私下里认同过的事。BFR项目时，苏兄有单独和每个stakeholder group开会，解释细节取得他们的认同，最后才   和所有人和Allan一起开会，会上大家没有提出什么让我们难堪的问题，因为私下里都解决过了，所以更   加顺利。
 
 * Managing learning as an investment process
 
