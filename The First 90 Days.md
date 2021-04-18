@@ -47,7 +47,7 @@ Two most fequently experienced types of transition:
 * Get some help
 
 
-## Accelerate Your Learning
+## C2 Accelerate Your Learning
 
 ### 1. Overcoming learning roadblocks
 
